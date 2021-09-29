@@ -6,7 +6,7 @@ Accept score data from HTML/CSS/JS games to keep a record of top scores.
 ## Purpose   
 This Game Stats Backend will function as a running servicer to collect data and execute score evaluation code in order to create, read, update and delete valid data in a SQL database.  
 
-## Setup. 
+## Setup 
 This project uses a virtual environment for development.  
 
 Detailed installation instructions can be found at https://flask.palletsprojects.com/en/2.0.x/installation/  
