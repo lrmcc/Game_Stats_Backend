@@ -15,13 +15,14 @@ Detailed installation instructions can be found at https://flask.palletsprojects
 To enter the virtual environment from within the code directory (we are using venv, other options exist):  
 name@name-computer directory %     *. venv/bin/activate*  
 
-Within the virtual environment, install flask (may need to use pip3):
+Within the virtual environment, install flask (may need to use pip3):  
 name@name-computer directory %     pip install Flask
 
 The following FLASK_APP and FLASK_ENV environment variables have been set as shown below for this project's development environment. 
 To allow gamestatsbackend.py to be launched with run command:  
 (venv) name@name-computer directory %   *export FLASK_APP=gamestatsbackend*  
-To enable development / debugger: 
+
+To enable development / debugger:  
 (venv) name@name-computer directory %   *export FLASK_ENV=development*  
 
 ## Start the program
